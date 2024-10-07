@@ -1,6 +1,8 @@
 
 Hi, I'm Efren 👋
+
 ---
+
 **📌About** <br>
 Hello my name is Efren and i'm a student at Binus University Bandung in faculty of Computer Science. I really like to learn new things especially surrounding the topic of Games, Especially Game development 🎮.
 
@@ -9,6 +11,8 @@ Hello my name is Efren and i'm a student at Binus University Bandung in faculty 
 efrenchristofer45@gmail.com
 <br>
 
+
+## Past Projects
 <table width="100%">
   <thead>
     <tr>
