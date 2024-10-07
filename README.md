@@ -44,10 +44,7 @@ efrenchristofer45@gmail.com
       <td align="center"><a href="https://github.com/Efrennnn/Slime-Attack">Read More</a></td> <!--link1-->
       <td align="center"><a href="https://github.com/Efrennnn/AstroPong">Read More</a></td> <!--link2-->
     </tr>
-    <tr>
-      <td align="center"><a href="">Trailer</a></td> <!--link1-->
-      <td align="center"><a href="">Trailer</a></td> <!--link2-->
-    </tr>
+  
   </tbody>
 </table>
 
