@@ -19,10 +19,10 @@ efrenchristofer45@gmail.com
   <tbody>
     <tr>
       <td align="center">
-        <img src="https://github.com/KXLVXN7/KXLVXN7/blob/main/gif/slime.gif" alt="1" style="width:100%;height:auto;">
+        <img src="https://github.com/KXLVXN7/KXLVXN7/blob/main/gif/slimeattack.gif" alt="1" style="width:100%;height:auto;">
       </td>
       <td align="center">
-        <img src="https://github.com/KXLVXN7/KXLVXN7/blob/main/gif/spong.gif" alt="2" style="width:100%;height:auto;">
+        <img src="https://github.com/KXLVXN7/KXLVXN7/blob/main/gif/astropong.gif" alt="2" style="width:100%;height:auto;">
       </td>
     </tr>
     <tr>
@@ -34,8 +34,8 @@ efrenchristofer45@gmail.com
       <td align="center"><a href="https://github.com/Efrennnn/AstroPong">Read More</a></td> <!--link2-->
     </tr>
     <tr>
-      <td align="center"><a href="https://www.youtube.com/watch?v=UWn3G_PZ_fA">Trailer</a></td> <!--link1-->
-      <td align="center"><a href="https://www.youtube.com/watch?v=MXbSJmlWlX0">Trailer</a></td> <!--link2-->
+      <td align="center"><a href="">Trailer</a></td> <!--link1-->
+      <td align="center"><a href="">Trailer</a></td> <!--link2-->
     </tr>
   </tbody>
 </table>
