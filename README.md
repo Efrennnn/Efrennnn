@@ -16,6 +16,7 @@ Engine   : Unity
 efrenchristofer45@gmail.com
 <br>
 
+---
 
 ## Past Projects
 <table width="100%">
