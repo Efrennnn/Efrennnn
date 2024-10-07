@@ -7,7 +7,7 @@ Hello my name is Efren and i'm a student at Binus University Bandung in faculty 
 <br>
 
 **🎮 Skill** <br>
-Language : C, C#.
+Language : C, C#.<br>
 Engine   : Unity
 <br>
 
