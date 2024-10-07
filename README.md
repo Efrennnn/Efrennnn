@@ -19,10 +19,10 @@ efrenchristofer45@gmail.com
   <tbody>
     <tr>
       <td align="center">
-        <img src="https://github.com/KXLVXN7/KXLVXN7/blob/main/gif/slimeattack.gif" alt="1" style="width:100%;height:auto;">
+        <img src="https://github.com/Efrennnn/Efrennnn/blob/main/slimeattack.gif" alt="1" style="width:100%;height:auto;">
       </td>
       <td align="center">
-        <img src="https://github.com/KXLVXN7/KXLVXN7/blob/main/gif/astropong.gif" alt="2" style="width:100%;height:auto;">
+        <img src="https://github.com/Efrennnn/Efrennnn/blob/main/astropong.gif" alt="2" style="width:100%;height:auto;">
       </td>
     </tr>
     <tr>
