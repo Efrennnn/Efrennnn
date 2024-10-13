@@ -43,7 +43,7 @@ www.linkedin.com/in/efren-christofer-0596a632a
       </td>
     </tr>
     <tr>
-      <td valign="text-top">Slime Attack is a TopDown RPG game about killing slime, u have the duty of an adventurer to kill the slimes in the area. Slime Attack is my first project alone during my study.</td> <!--desc-->
+      <td valign="text-top">Slime Attack is a TopDown RPG game about killing slime, you have the duty of an adventurer to kill the slimes in the area. Slime Attack is my first project alone during my study.</td> <!--desc-->
       <td valign="text-top">Astro Pong is a pong game that combines astronauts and pong, the setting of the game is in outer space where 2 astronouts fight it out!</td> <!--desc-->
     </tr>
     <tr>
