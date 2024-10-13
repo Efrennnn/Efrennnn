@@ -73,6 +73,7 @@ www.linkedin.com/in/efren-christofer-0596a632a
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/Efrennnn/Wild-Rescue">Read More</a></td> <!--link1-->
+      <td align="center"><a href="https://github.com/Efrennnn/Wild-Rescue">Read More</a></td> <!--link1-->
     </tr>
   
     
