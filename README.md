@@ -54,7 +54,7 @@ www.linkedin.com/in/efren-christofer-0596a632a
   <thead>
     <tr>
       <th width="50%" align="center"><a>Wild Rescue </a></th> <!--tittle-->
-      <th width="50%" align="center"><a></a></th> <!--tittle-->
+      <th width="50%" align="center"><a>Frog Jump (WIP)</a></th> <!--tittle-->
     </tr>
   </thead>
 
@@ -73,7 +73,7 @@ www.linkedin.com/in/efren-christofer-0596a632a
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/Efrennnn/Wild-Rescue">Read More</a></td> <!--link1-->
-      <td align="center"><a href="https://github.com/Efrennnn/Wild-Rescue">Read More</a></td> <!--link1-->
+      <td align="center"><a href="https://github.com/Efrennnn/Frog-Jump">Read More</a></td> <!--link1-->
     </tr>
   
     
