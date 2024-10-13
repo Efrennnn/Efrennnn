@@ -46,6 +46,33 @@ efrenchristofer45@gmail.com
       <td align="center"><a href="https://github.com/Efrennnn/Slime-Attack">Read More</a></td> <!--link1-->
       <td align="center"><a href="https://github.com/Efrennnn/AstroPong">Read More</a></td> <!--link2-->
     </tr>
+
+  <thead>
+    <tr>
+      <th width="50%" align="center"><a>Wild Rescue </a></th> <!--tittle-->
+      <th width="50%" align="center"><a>Astro Pong</a></th> <!--tittle-->
+    </tr>
+  </thead>
+
+  <tbody>
+    <tr>
+      <td align="center">
+        <img src="https://github.com/Efrennnn/Efrennnn/blob/main/slimeattack.gif" alt="1" style="width:100%;height:auto;">
+      </td>
+      <td align="center">
+        <img src="https://github.com/Efrennnn/Efrennnn/blob/main/astropong.gif" alt="2" style="width:100%;height:auto;">
+      </td>
+    </tr>
+    <tr>
+      <td valign="text-top">Slime Attack is a TopDown RPG game about killing slime, u have the duty of an adventurer to kill the slimes in the area.</td> <!--desc-->
+      <td valign="text-top">Astro Pong is a pong game that combines astronauts and pong, the setting of the game is in outer space where 2 astronouts fight it out!</td> <!--desc-->
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/Efrennnn/Slime-Attack">Read More</a></td> <!--link1-->
+      <td align="center"><a href="https://github.com/Efrennnn/AstroPong">Read More</a></td> <!--link2-->
+    </tr>
+  
+    
   
   </tbody>
 </table>
