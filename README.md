@@ -50,25 +50,25 @@ efrenchristofer45@gmail.com
   <thead>
     <tr>
       <th width="50%" align="center"><a>Wild Rescue </a></th> <!--tittle-->
-      <th width="50%" align="center"><a>Astro Pong</a></th> <!--tittle-->
+      <th width="50%" align="center"><a></a></th> <!--tittle-->
     </tr>
   </thead>
 
   <tbody>
     <tr>
       <td align="center">
-        <img src="https://github.com/Efrennnn/Efrennnn/blob/main/slimeattack.gif" alt="1" style="width:100%;height:auto;">
+        <img src="https://github.com/Efrennnn/Efrennnn/blob/main/wildrescue.gif" alt="1" style="width:100%;height:auto;">
       </td>
       <td align="center">
         <img src="" alt="2" style="width:100%;height:auto;">
       </td>
     </tr>
     <tr>
-      <td valign="text-top">Wild Rescue is a game about a ranger that rescues animal with a dart gun, the methods aren't really the best but it works.</td> <!--desc-->
+      <td valign="text-top">Wild Rescue is a game about a ranger that rescues animal with a dart gun, the methods of rescuing aren't really the best but it works.</td> <!--desc-->
       <td valign="text-top"></td> <!--desc-->
     </tr>
     <tr>
-      <td align="center"><a href="https://github.com/Efrennnn/Slime-Attack">Read More</a></td> <!--link1-->
+      <td align="center"><a href="https://github.com/Efrennnn/Wild-Rescue">Read More</a></td> <!--link1-->
     </tr>
   
     
