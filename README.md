@@ -19,6 +19,10 @@ Tools    : Unity, Visual Studio Code.
 efrenchristofer45@gmail.com
 <br>
 
+**LinkedIn** <br>
+www.linkedin.com/in/efren-christofer-0596a632a
+<br>
+
 ---
 
 ## Past Projects
