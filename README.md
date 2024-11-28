@@ -53,8 +53,8 @@ www.linkedin.com/in/efren-christofer-0596a632a
   
   <thead>
     <tr>
-      <th width="50%" align="center"><a>Wild Rescue </a></th> <!--tittle-->
-      <th width="50%" align="center"><a>Frog Jump</a></th> <!--tittle-->
+      <th width="50%" align="center"><a>Frog Jump </a></th> <!--tittle-->
+      <th width="50%" align="center"><a></a></th> <!--tittle-->
     </tr>
   </thead>
 
