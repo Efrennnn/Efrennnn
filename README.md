@@ -61,19 +61,18 @@ www.linkedin.com/in/efren-christofer-0596a632a
   <tbody>
     <tr>
       <td align="center">
-        <img src="https://github.com/Efrennnn/Efrennnn/blob/main/wildrescue.gif" alt="1" style="width:100%;height:auto;">
+        <img src="https://github.com/Efrennnn/Efrennnn/blob/main/frogjump.gif" alt="1" style="width:100%;height:auto;">
       </td>
       <td align="center">
-        <img src="https://github.com/Efrennnn/Efrennnn/blob/main/frogjump.gif" alt="2" style="width:100%;height:auto;">
       </td>
     </tr>
     <tr>
-      <td valign="text-top">Wild Rescue is a game about a ranger that rescues animal with a dart gun, the methods of rescuing aren't really the best but it works.</td> <!--desc-->
-      <td valign="text-top">Frog Likes To Jump</td> <!--desc-->
+      <td valign="text-top">Frog Likes To Jump.</td> <!--desc-->
+      <td valign="text-top"></td> <!--desc-->
     </tr>
     <tr>
-      <td align="center"><a href="https://github.com/Efrennnn/Wild-Rescue">Read More</a></td> <!--link1-->
       <td align="center"><a href="https://github.com/Efrennnn/Frog-Jump">Read More</a></td> <!--link1-->
+      <td align="center"><a href="">Read More</a></td> <!--link1-->
     </tr>
   
     
