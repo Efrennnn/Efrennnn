@@ -23,6 +23,10 @@ efrenchristofer45@gmail.com
 www.linkedin.com/in/efren-christofer-0596a632a
 <br>
 
+**CV** <br>
+https://drive.google.com/drive/folders/1ghNLdENyRUybN2BCsYbER51wpykk4Tb2?dmr=1&ec=wgc-drive-hero-goto
+<br>
+
 ---
 
 ## Past Projects
